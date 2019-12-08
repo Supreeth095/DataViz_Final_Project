@@ -18,6 +18,28 @@ The dataset is a collection of geolocations describing the movements of a person
 - Country: Country where the person was
 
 
+Dashboard 1:
+
+<img width="1131" alt="Dashboard_1" src="https://user-images.githubusercontent.com/54856447/70383586-340aa100-193e-11ea-9dae-b34001f0eb7d.png">
+
+Dashboard 2:
+<img width="1131" alt="Dashboard_2" src="https://user-images.githubusercontent.com/54856447/70383587-340aa100-193e-11ea-8bcb-c31007b9883d.png">
+
+Dashboard 3:
+<img width="1158" alt="Dashboard_3" src="https://user-images.githubusercontent.com/54856447/70383588-340aa100-193e-11ea-928b-5e166fe9dfd3.png">
+
+Dashboard 4:
+<img width="1285" alt="Dashboard_4" src="https://user-images.githubusercontent.com/54856447/70383589-34a33780-193e-11ea-95dc-5763e239530f.png">
+
+Dashboard 5:
+<img width="1340" alt="Dashboard_5" src="https://user-images.githubusercontent.com/54856447/70383590-34a33780-193e-11ea-842f-cc618b655909.png">
+
+GIF 1:
+![movie_1](https://user-images.githubusercontent.com/54856447/70383591-34a33780-193e-11ea-817d-9bb77a70da17.gif)
+
+GIF 2: 
+![movie_2](https://user-images.githubusercontent.com/54856447/70383592-34a33780-193e-11ea-92af-8e6ea3c3951e.gif)
+
 ### Instructions
 
 Create a single infographic including 3 figures created with tableau. Each figure can be composed of multiple views. The infographic can be assembled either inside Tableau or by using a vector graphic software like Adobe Illustrator or Inkscape.
