@@ -96,20 +96,65 @@ So, in this Dashboard we explore more about the person's affinity with Italy and
 
 <img width="1131" alt="Dashboard_2" src="https://user-images.githubusercontent.com/54856447/70383587-340aa100-193e-11ea-8bcb-c31007b9883d.png">
 
+
+
+GIF: 
+
+![movie_2](https://user-images.githubusercontent.com/54856447/70383592-34a33780-193e-11ea-92af-8e6ea3c3951e.gif)
+
 Dashboard 3:
+
+In this Dashboard we explore more about the person's habits and activities. 
+
+
+This dashboard consists of 4 images:
+Image 1: Hour wise on-foot Activity
+
+We can see that the person is least active between 1am to 5am and most active at 7am in the USA. 
+
+Image 2:
+Comparison of activity in the person's two favorite cities. 
+
+Image 3:
+Traveling pattern of the person in USA
+
+He travels a lot in the morning at 9am . (Probably to Work)
+Is still for a while. 
+
+Travels a lot after 6pm and travels the most at 7 pm. (Probably reaches home by this time). After which the activity reduces significantly. 
+
+
+Image 4:
+Activity count over the years - Different type of Activity
+
+Can see that the person prefers on-foot more than bicycle. 
+Also can notice that the in-vehicle travel has increased significantly since 2018 and on-foot has decreased since 2018. Probably he has been travelling to work in vehicle since 2017. 
+
+
+So, In this Dashboard we explore more about the person's habits and activities. 
+We understand when he is most active and when he is least active. 
+We understand that he has been opting for vehicle transport instead of on foot more since 2018. 
+We understand other habits such as travel timings (perhaphs to and from work).
+
 <img width="1158" alt="Dashboard_3" src="https://user-images.githubusercontent.com/54856447/70383588-340aa100-193e-11ea-928b-5e166fe9dfd3.png">
 
+
+
 Dashboard 4:
+
+Just another nice way to display the countries this person has visited
 <img width="1285" alt="Dashboard_4" src="https://user-images.githubusercontent.com/54856447/70383589-34a33780-193e-11ea-95dc-5763e239530f.png">
 
 Dashboard 5:
+
+Another cool way to see the cities the person has visited over the years as a GIF. 
+
 <img width="1340" alt="Dashboard_5" src="https://user-images.githubusercontent.com/54856447/70383590-34a33780-193e-11ea-842f-cc618b655909.png">
 
-GIF 1:
+GIF:
 ![movie_1](https://user-images.githubusercontent.com/54856447/70383591-34a33780-193e-11ea-817d-9bb77a70da17.gif)
 
-GIF 2: 
-![movie_2](https://user-images.githubusercontent.com/54856447/70383592-34a33780-193e-11ea-92af-8e6ea3c3951e.gif)
+
 
 ### Instructions
 
