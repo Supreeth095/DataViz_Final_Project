@@ -19,7 +19,7 @@ The dataset is a collection of geolocations describing the movements of a person
 
 
 
-Dashboard 1:
+### Dashboard 1:
 
 
 In this Dashboard we explore more about the person's place in USA and where his home/work might be. 
@@ -27,27 +27,27 @@ In this Dashboard we explore more about the person's place in USA and where his 
 
 This dashboard consists of 4 images:
 
-1: Heat Map of Countries Visited. 
+ Image 1: Heat Map of Countries Visited. 
 
 It shows all the countries the person has visited since 2014. The darker shade indicates more activity in that place. 
 
 We can see that the 2 main contries visited by this person are : 
 USA and Italia
 
-Image 2:
+ Image 2:
 
 Density Map of the States he has visited within the USA. 
 
 We can see that the states the person has visited over the years and we can guess where he lived at a particular time, using the Density. More Density would mean home state. 
 
 
-Image 3:
+ Image 3:
 
 Bubble Map of the Counties he has visited within the USA. 
 
 We can see that the Counties the person has visited over the years and we can guess in which county he lived in based on the bubble size. As we can see Prince George's county is the biggest bubble. So his home is probably in Prince George's county.
 
-Image 4:
+ Image 4:
 
 Tree Map of the cities he has visited within the USA. 
 
@@ -60,14 +60,14 @@ So, in this Dashboard we explore more about the person's place in USA and where 
 
 
 
-Dashboard 2:
+### Dashboard 2:
 
 In this Dashboard we explore more about the person's Travel Habits in Italia including place of stay, etc. .
 
 
 This dashboard consists of 4 images:
 
-1: GIF of Countries Visited over time. 
+ Image 1: GIF of Countries Visited over time. 
 It shows all the countries the person has visited since 2014. The good thing about this is that it establishes a Timeline of all of the person's travel
 
 We can see that the 2 main contries visited by this person are : 
@@ -77,13 +77,13 @@ We have Established that this person stays and works in the USA. However we can 
 So, in this Dashboard we explore more about the person's Travel Habits in Italia including place of stay, etc. .
 
 
-Image 2:
+ Image 2:
 
 Tree Map of the States he has visited in Italy. 
 
 We can see that the states the person has visited in Italy and we can guess where he always visits which one particilar state based on the square size. As we can see Liguria is the biggest square. Meaning, when he visits Italy, he always stays in Liguria state. 
 
-Image 3:
+ Image 3:
 
 Bar graph of the cities he has visited within Italy. 
 
@@ -121,7 +121,7 @@ GIF:
 
 
 
-Dashboard 3:
+### Dashboard 3:
 
 In this Dashboard we explore more about the person's habits and activities. 
 
@@ -159,12 +159,12 @@ We understand other habits such as travel timings (perhaphs to and from work).
 
 
 
-Dashboard 4:
+### Dashboard 4:
 
 Just another nice way to display the countries this person has visited
 <img width="1285" alt="Dashboard_4" src="https://user-images.githubusercontent.com/54856447/70383589-34a33780-193e-11ea-95dc-5763e239530f.png">
 
-Dashboard 5:
+### Dashboard 5:
 
 Another cool way to see the cities the person has visited over the years as a GIF. 
 
@@ -188,7 +188,7 @@ You are not allowed to use the same visualization idiom twice (i.e., if your mai
 
 Upload the final infographic created plus all the material used to generate it (workbook, svg or ia files, text files, etc.)
 
-## The Tableau Work book containing all the Dashboards has been uploaded.
+### The Tableau Work book containing all the Dashboards has been uploaded.
 
 ### Grade
 
