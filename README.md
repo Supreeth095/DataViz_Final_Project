@@ -19,35 +19,40 @@ The dataset is a collection of geolocations describing the movements of a person
 
 
 Dashboard 1:
-So, in this Dashboard we explore more about the person's place in USA and where his home/work might be. 
+
+
+In this Dashboard we explore more about the person's place in USA and where his home/work might be. 
 
 
 This dashboard consists of 4 images:
+
 1: Heat Map of Countries Visited. 
+
 It shows all the countries the person has visited since 2014. The darker shade indicates more activity in that place. 
 
 We can see that the 2 main contries visited by this person are : 
 USA and Italia
 
-So, in this Dashboard we explore more about the person's place in USA and where his home/work might be. 
-
 Image 2:
+
 Density Map of the States he has visited within the USA. 
 
 We can see that the states the person has visited over the years and we can guess where he lived at a particular time, using the Density. More Density would mean home state. 
 
+
 Image 3:
+
 Bubble Map of the Counties he has visited within the USA. 
 
 We can see that the Counties the person has visited over the years and we can guess in which county he lived in based on the bubble size. As we can see Prince George's county is the biggest bubble. So his home is probably in Prince George's county.
 
 Image 4:
+
 Tree Map of the cities he has visited within the USA. 
 
 We can see that the cities the person has visited over the years and we can guess in which city he lived in based on the square size. As we can see College Park is the biggest square. So his home and work is probably in College Park city.
 
 So, in this Dashboard we explore more about the person's place in USA and where his home/work might be. 
-
 
 
 <img width="1131" alt="Dashboard_1" src="https://user-images.githubusercontent.com/54856447/70383586-340aa100-193e-11ea-9dae-b34001f0eb7d.png">
@@ -56,7 +61,11 @@ So, in this Dashboard we explore more about the person's place in USA and where 
 
 Dashboard 2:
 
+In this Dashboard we explore more about the person's Travel Habits in Italia including place of stay, etc. .
+
+
 This dashboard consists of 4 images:
+
 1: GIF of Countries Visited over time. 
 It shows all the countries the person has visited since 2014. The good thing about this is that it establishes a Timeline of all of the person's travel
 
@@ -68,39 +77,48 @@ So, in this Dashboard we explore more about the person's Travel Habits in Italia
 
 
 Image 2:
+
 Tree Map of the States he has visited in Italy. 
 
 We can see that the states the person has visited in Italy and we can guess where he always visits which one particilar state based on the square size. As we can see Liguria is the biggest square. Meaning, when he visits Italy, he always stays in Liguria state. 
 
 Image 3:
-Bar Map of the cities he has visited within Italy. 
+
+Bar graph of the cities he has visited within Italy. 
 
 We can see that acitivity count in the cities the person has visited in Italy.We can guess that , Since Genova is really high in value compared to the other cities in Italy, He always Visits Genova when he travels to Italy.
 
 Image 4:
+
 Bubble Map of the Months Spent in Italy 
 
 We can see that the months that the person has visited Italy in over the years. We can notice a trend that he usually visitis Italy in : 
 Winter :
 December 
-January
-Febraury
+,January
+,Febraury
 
 And Summer:
 May
-June
-July 
+,June
+,July 
 
 So, in this Dashboard we explore more about the person's affinity with Italy and where his native city might be in Italy and the months he likes to travel to Italy. 
+
 
 
 <img width="1131" alt="Dashboard_2" src="https://user-images.githubusercontent.com/54856447/70383587-340aa100-193e-11ea-8bcb-c31007b9883d.png">
 
 
 
+
 GIF: 
 
 ![movie_2](https://user-images.githubusercontent.com/54856447/70383592-34a33780-193e-11ea-92af-8e6ea3c3951e.gif)
+
+
+
+
 
 Dashboard 3:
 
