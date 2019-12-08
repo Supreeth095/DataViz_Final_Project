@@ -17,6 +17,8 @@ The dataset is a collection of geolocations describing the movements of a person
 - State: State where the person was
 - Country: Country where the person was
 
+## The Tableau Work book containing all the Dashboards has been uploaded.
+
 
 Dashboard 1:
 
@@ -187,7 +189,7 @@ You are not allowed to use the same visualization idiom twice (i.e., if your mai
 
 Upload the final infographic created plus all the material used to generate it (workbook, svg or ia files, text files, etc.)
 
-The Tableau Work book containing all the Dashboards
+The Tableau Work book containing all the Dashboards has been uploaded.
 
 ### Grade
 
