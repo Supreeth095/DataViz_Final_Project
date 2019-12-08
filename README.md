@@ -169,6 +169,7 @@ You are not allowed to use the same visualization idiom twice (i.e., if your mai
 
 Upload the final infographic created plus all the material used to generate it (workbook, svg or ia files, text files, etc.)
 
+The Tableau Work book containing all the Dashboards
 
 ### Grade
 
